@@ -38,3 +38,8 @@ This project strengthened my ability to transform raw data into actionable insig
 
 <img width="694" height="398" alt="image" src="https://github.com/user-attachments/assets/a3bb31a6-6fda-4cc4-8848-e18ba16c5e34" />
 
+<img width="700" height="397" alt="image" src="https://github.com/user-attachments/assets/6dca9c09-c571-4c1a-bd0c-75b438e4fa7f" />
+
+<img width="692" height="392" alt="image" src="https://github.com/user-attachments/assets/23e0c5f3-be5f-46d7-938f-d0751334be13" />
+
+<img width="691" height="394" alt="image" src="https://github.com/user-attachments/assets/c8d50c59-69f2-40a3-88f8-fc28b24deb4d" />
