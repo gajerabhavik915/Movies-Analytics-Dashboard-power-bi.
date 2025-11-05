@@ -35,3 +35,6 @@ Discovered peak years (2008, 2010, 2014, etc.) with both the highest releases an
 This project strengthened my ability to transform raw data into actionable insights and demonstrate data storytelling with Power BI.
 
 #PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #MoviesAnalytics #DataStorytelling
+
+<img width="694" height="398" alt="image" src="https://github.com/user-attachments/assets/a3bb31a6-6fda-4cc4-8848-e18ba16c5e34" />
+
